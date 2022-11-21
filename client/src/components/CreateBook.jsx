@@ -20,7 +20,7 @@ const CreateBook = () => {
       isbn: isbn,
       author: author,
       description: description,
-      publishedDate: publishedDate,
+      published_date: publishedDate,
       publisher: publisher
     };
 
